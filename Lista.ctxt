@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lista
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Lista\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=
+comment1.target=Lista()
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Lista\r\n
+comment2.params=n
+comment2.target=void\ aggiungiAllaLista(Noleggi)
+comment3.params=n
+comment3.target=boolean\ daTogliere(Noleggi)
+comment4.params=
+comment4.target=java.lang.String\ stampaLista()
+numComments=5

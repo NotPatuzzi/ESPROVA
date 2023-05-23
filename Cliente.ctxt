@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Cliente\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=codiceFisc\ nome\ cognome
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Cliente\r\n
+comment2.params=
+comment2.target=Cliente()
+comment3.params=
+comment3.target=java.lang.String\ getCodiceFisc()
+comment3.text=\r\n\ Un\ esempio\ di\ metodo\ -\ aggiungi\ i\ tuoi\ commenti\r\n\ \r\n\ @param\ \ y\ \ \ un\ parametro\ d'esempio\ per\ un\ metodo\r\n\ @return\ \ \ \ \ la\ somma\ di\ x\ e\ y\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=java.lang.String\ getCognome()
+comment6.params=codiceFisc
+comment6.target=void\ setCodiceFisc(java.lang.String)
+comment7.params=nome
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=cognome
+comment8.target=void\ setCognome(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

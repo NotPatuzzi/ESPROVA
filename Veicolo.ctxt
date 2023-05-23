@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Veicolo
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Veicoli\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=targa\ modello\ tariffa
+comment1.target=Veicolo(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Veicoli\r\n
+comment2.params=
+comment2.target=Veicolo()
+comment3.params=
+comment3.target=java.lang.String\ getTarga()
+comment3.text=\r\n\ Un\ esempio\ di\ metodo\ -\ aggiungi\ i\ tuoi\ commenti\r\n\ \r\n\ @param\ \ y\ \ \ un\ parametro\ d'esempio\ per\ un\ metodo\r\n\ @return\ \ \ \ \ la\ somma\ di\ x\ e\ y\r\n
+comment4.params=
+comment4.target=java.lang.String\ getModello()
+comment5.params=
+comment5.target=int\ getTariffa()
+comment6.params=targa
+comment6.target=void\ setTarga(java.lang.String)
+comment7.params=modello
+comment7.target=void\ setModello(java.lang.String)
+comment8.params=tariffa
+comment8.target=void\ setTariffa(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

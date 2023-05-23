@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Furgone
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Furgone\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=targa\ modello\ tariffa\ capacita
+comment1.target=Furgone(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Furgone\r\n
+comment2.params=
+comment2.target=Furgone()
+comment3.params=
+comment3.target=int\ getCapacita()
+comment3.text=\r\n\ Un\ esempio\ di\ metodo\ -\ aggiungi\ i\ tuoi\ commenti\r\n\ \r\n\ @param\ \ y\ \ \ un\ parametro\ d'esempio\ per\ un\ metodo\r\n\ @return\ \ \ \ \ la\ somma\ di\ x\ e\ y\r\n
+comment4.params=capacita
+comment4.target=void\ setCapacita(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
